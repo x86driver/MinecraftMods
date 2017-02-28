@@ -1,12 +1,3 @@
-![circleci](https://circleci.com/gh/doremi/MinecraftMods.svg?style=shield&circle-token=70feedf00c955cb5dad3f25ee2fefc208518dcb2)
-
-![travis](https://api.travis-ci.org/doremi/MinecraftMods.svg?branch=master)
-
-This repository rewritten "Minecraft Modding Book" for latest forge version
-
-Book Author: https://github.com/AdityaGupta1/minecraft-modding-book
-
-
 Forge original readme:
 -------------------------------------------
 Source installation information for modders
