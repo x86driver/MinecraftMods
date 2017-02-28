@@ -1,5 +1,8 @@
 Changelog:
-Build 2251:
+Build 2252:
+	bartek.bok: Fix entity write catch block (#3726)
+
+Build 1.11.2-13.20.0.2251:
 	Barteks2x:
 		Fixed TESR items not rendering correctly before entering world
 		(MC-112292) (#3666)
