@@ -1,3 +1,9 @@
+This repository rewritten "Minecraft Modding Book" for latest forge version
+
+Book Author: https://github.com/AdityaGupta1/minecraft-modding-book
+
+
+Forge original readme:
 -------------------------------------------
 Source installation information for modders
 -------------------------------------------
