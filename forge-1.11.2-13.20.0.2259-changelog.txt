@@ -1,5 +1,41 @@
 Changelog:
-Build 2252:
+Build 2259:
+	LexManos:
+		Fix error when reading world info for old saves with missing dimensions.
+		Closes #3786 #3331
+
+Build 1.11.2-13.20.0.2258:
+	mezz:
+		Detect and log cascading chunk generation issues during terrain
+		population (#3756)
+
+Build 1.11.2-13.20.0.2257:
+	mezz:
+		Fix #3733 Splash Screen memory bar background matches screen background
+		(#3775)
+	burtonjae:
+		Fix duplicate achievements getting added to the achievement list (#3770)
+		(#3779)
+
+Build 1.11.2-13.20.0.2256:
+	mattia.malonni: Add additional constructors to EnergyStorage to set values at load time.
+
+Build 1.11.2-13.20.0.2255:
+	diesieben07: Fix parameter-names for WorldProvider.shouldMapSpin (#3767)
+
+Build 1.10.2-12.18.3.2254:
+	cpw:
+		Add in a check to the splash screen. If the Display.update call takes
+		too long on average (over first 200 frames) we'll use a sleep based
+		timer to allow mods doing splash screen work some time on the LWJGL
+		global lock.
+
+Build 1.11.2-13.20.0.2253:
+	paul.fulham0:
+		Fix MC-112730 TE global renderer duplicate render (#3651)
+		* Fix TE global renderer duplicate render
+
+Build 1.11.2-13.20.0.2252:
 	bartek.bok: Fix entity write catch block (#3726)
 
 Build 1.11.2-13.20.0.2251:
